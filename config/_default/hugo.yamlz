@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Personnel Psychology Lab'
 # Website URL
-baseURL: 'https://alessius00.github.io/sito-lab-/'
+baseURL:'https://alessius00.github.io/sito-lab-/'
 
 ############################
 ## LANGUAGE

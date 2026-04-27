@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: 'Personnel Psychology Lab'
+title: ''
 # Website URL
-baseURL: 'https://alessius00.github.io/sito-lab-/'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
